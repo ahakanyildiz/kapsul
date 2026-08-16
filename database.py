@@ -4,6 +4,7 @@ import sqlite3
 def veritabani_olustur():
     conn = sqlite3.connect("filmbot.db")
     cursor = conn.cursor()
+    print("KAPSÜLE SELAM")
 
     # Filmler tablosu
     cursor.execute("""
