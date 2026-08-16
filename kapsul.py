@@ -1,0 +1,1 @@
+print("Kapsul.py dosyası çalıştı!")
