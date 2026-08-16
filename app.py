@@ -14,6 +14,7 @@ def menu():
     print("HAKAN")
     print("-"*50)
     print("hakannnn")
+    print("hakannnn pull request denemesi")
     return input("Seçiminiz (1-4): ")
 
 
