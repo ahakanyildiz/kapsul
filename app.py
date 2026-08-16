@@ -11,6 +11,7 @@ def menu():
     print("2. Türe Göre Filtrele")
     print("3. Film Puanla")
     print("4. Çıkış")
+    print("HAKAN")
     print("-"*50)
     return input("Seçiminiz (1-4): ")
 
