@@ -13,6 +13,7 @@ def menu():
     print("4. Çıkış")
     print("HAKAN")
     print("-"*50)
+    print("hakannnn")
     return input("Seçiminiz (1-4): ")
 
 
