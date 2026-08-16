@@ -44,6 +44,8 @@ def main():
     ornek_filmler_ekle()
 
     while True:
+        import time
+        time.sleep(2)
         secim = menu()
         if secim == "1":
             filmleri_goster()
