@@ -8,6 +8,7 @@ def menu():
     print("\n" + "="*50)
     print("  🎬  FİLMBOT - Akıllı Film Öneri Sistemi")
     print("="*50)
+    print("hello world")
     print("1. Tüm Filmleri Listele")
     print("2. Türe Göre Filtrele")
     print("3. Film Puanla")
